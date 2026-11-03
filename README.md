@@ -85,6 +85,7 @@ IDE/Compiler: VS Code / Code::Blocks / GCC
 Clone this repository:
 bash
 git clone https://github.com/AanchalJha05/DAA-lab-/tree/main
+
 Navigate to the project directory:
 bash
 cd DAA-Lab
@@ -116,6 +117,7 @@ Understand graph algorithms and their applications.
 Apply Greedy, Divide and Conquer, Dynamic Programming, and Backtracking techniques.
 Analyze the best-case, average-case, and worst-case time complexities of algorithms.
 Improve problem-solving and programming skills.
+
 👨‍💻 Author
 
 Aanchal Kumari 
